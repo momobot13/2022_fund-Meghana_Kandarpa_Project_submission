@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0f30061-c06f-4b01-bf91-d7e9baadada0" name="Changes" comment="">
+    <list default="true" id="c0f30061-c06f-4b01-bf91-d7e9baadada0" name="Changes" comment="git remote add origin https://github.com/momobot13/Meghana_Kandarpa_finalproject.git&#10;git branch -M main&#10;git push -u origin maingit remote add origin https://github.com/momobot13/Meghana_Kandarpa_finalproject.git&#10;                       git branch -M main&#10;                       git push -u origin main">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -27,6 +27,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DRg2slYsQRCKjR64WgyqNSsmrV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git remote add origin https://github.com/momobot13/Meghana_Kandarpa_finalproject.git&#10;git branch -M main&#10;git push -u origin maingit remote add origin https://github.com/momobot13/Meghana_Kandarpa_finalproject.git&#10;                       git branch -M main&#10;                       git push -u origin main" />
+    <option name="LAST_COMMIT_MESSAGE" value="git remote add origin https://github.com/momobot13/Meghana_Kandarpa_finalproject.git&#10;git branch -M main&#10;git push -u origin maingit remote add origin https://github.com/momobot13/Meghana_Kandarpa_finalproject.git&#10;                       git branch -M main&#10;                       git push -u origin main" />
   </component>
 </project>
